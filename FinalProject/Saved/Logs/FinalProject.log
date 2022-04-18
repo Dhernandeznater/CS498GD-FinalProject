@@ -2787,3 +2787,23 @@ An asset already exists at the import location: /Game/Art/UI/2b
 [2022.04.18-01.12.31:254][714]LogUObjectHash: Compacting FUObjectHashTables data took   2.24ms
 [2022.04.18-01.12.32:402][714]LogSlate: Window 'Delete Assets' being destroyed
 [2022.04.18-01.12.32:489][714]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2022.04.18-01.13.52:084][947]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Main" FILE="../../../../../../Users/evera5/final-project/FinalProject/Content/Maps/Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.04.18-01.13.52:109][947]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2022.04.18-01.13.52:130][947]LogSavePackage: Moving '../../../../../../Users/evera5/final-project/FinalProject/Saved/Main50DBF4894E4C887F92B0CF9592B28834.tmp' to '../../../../../../Users/evera5/final-project/FinalProject/Content/Maps/Main.umap'
+[2022.04.18-01.13.52:139][947]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Main_BuiltData" FILE="../../../../../../Users/evera5/final-project/FinalProject/Content/Maps/Main_BuiltData.uasset" SILENT=true
+[2022.04.18-01.13.52:156][947]LogSavePackage: Moving '../../../../../../Users/evera5/final-project/FinalProject/Saved/Main_BuiltData1B664E1848B87DBBE9B782A7EA030FDC.tmp' to '../../../../../../Users/evera5/final-project/FinalProject/Content/Maps/Main_BuiltData.uasset'
+[2022.04.18-01.13.52:167][947]AssetCheck: New page: Asset Save: multiple assets
+[2022.04.18-01.13.52:167][947]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/Main_BuiltData.Main_BuiltData
+[2022.04.18-01.13.52:167][947]LogContentValidation: Display: Validating World /Game/Maps/Main.Main
+[2022.04.18-01.14.04:097][258]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/LevelSelect" FILE="../../../../../../Users/evera5/final-project/FinalProject/Content/Widgets/LevelSelect.uasset" SILENT=true
+[2022.04.18-01.14.04:110][258]LogSavePackage: Moving '../../../../../../Users/evera5/final-project/FinalProject/Saved/LevelSelect776A9DDC43546CE93553319E87C8AB76.tmp' to '../../../../../../Users/evera5/final-project/FinalProject/Content/Widgets/LevelSelect.uasset'
+[2022.04.18-01.14.04:123][258]AssetCheck: New page: Asset Save: LevelSelect
+[2022.04.18-01.14.04:123][258]LogContentValidation: Display: Validating WidgetBlueprint /Game/Widgets/LevelSelect.LevelSelect
+[2022.04.18-01.14.07:281][560]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/MainMenu" FILE="../../../../../../Users/evera5/final-project/FinalProject/Content/Widgets/MainMenu.uasset" SILENT=true
+[2022.04.18-01.14.07:296][560]LogSavePackage: Moving '../../../../../../Users/evera5/final-project/FinalProject/Saved/MainMenu394F277A4FDD9B6DD83F3D9422C2C6AF.tmp' to '../../../../../../Users/evera5/final-project/FinalProject/Content/Widgets/MainMenu.uasset'
+[2022.04.18-01.14.07:309][560]AssetCheck: New page: Asset Save: MainMenu
+[2022.04.18-01.14.07:309][560]LogContentValidation: Display: Validating WidgetBlueprint /Game/Widgets/MainMenu.MainMenu
+[2022.04.18-01.14.11:954][ 38]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Art/UI/1btn" FILE="../../../../../../Users/evera5/final-project/FinalProject/Content/Art/UI/1btn.uasset" SILENT=true
+[2022.04.18-01.14.11:960][ 38]LogSavePackage: Moving '../../../../../../Users/evera5/final-project/FinalProject/Saved/1btnD7E362CB4115C309C5CC0B95013EAA52.tmp' to '../../../../../../Users/evera5/final-project/FinalProject/Content/Art/UI/1btn.uasset'
+[2022.04.18-01.14.11:973][ 38]AssetCheck: New page: Asset Save: 1btn
+[2022.04.18-01.14.11:973][ 38]LogContentValidation: Display: Validating Texture2D /Game/Art/UI/1btn.1btn
